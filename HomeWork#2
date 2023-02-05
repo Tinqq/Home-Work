@@ -25,9 +25,9 @@ Console.WriteLine("\tHello to out World! Welcome!");
 
 Console.WriteLine("How do you think any man can leave 1000 years?");
 
-bool varieble = false;
+bool varieble;
 
-if (varieble)
+if (varieble = false)
 {
     Console.WriteLine($"{varieble}");
 }
