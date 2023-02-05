@@ -30,7 +30,7 @@ Console.WriteLine("\tHello to out World! Welcome!");
 
 
 //5.Дати оцінку твердженню: "Сусід сказав, що людина може жити 1000 років". (Правда\Брехня, вмістити в 1 байт)
-Console.WriteLine("How do you think any man can leave 1000 years? Write answer, Yes - if you think so, and No if not.");
+Console.WriteLine("How do you think any man can leave 1000 years? Write answer, "yes" - if you think so, and "no" if you don't.");
 
 string str;
 str = Console.ReadLine();
