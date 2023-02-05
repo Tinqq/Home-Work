@@ -1,12 +1,16 @@
-
+//1.Вік людини
 Console.WriteLine("Input your Age: ");
 byte yourAge = byte.Parse(Console.ReadLine());
 Console.WriteLine("Your Age is: " + yourAge);
 
+
+//2.Банківський рахунок з лімітом від -1 000 000 000 000 до 1 000 000 000 000 грн
 Console.WriteLine("How many you want to deposit into our company (from -1 000 000 000 000 to 1 000 000 000 000) : ");
 long deposite = long.Parse(Console.ReadLine());
 Console.WriteLine("Value of your deposite is : " + deposite);
 
+
+//3.Літера
 Console.WriteLine("Input any letter to create security password of your account (any one symbol): ");
 
 try
@@ -20,9 +24,12 @@ catch (Exception)
     Console.WriteLine("Incorrect Symbol");
 }
 
+
+//4.SMS повідомлення: `Hello World`
 Console.WriteLine("\tHello to out World! Welcome!");
 
-/*Дати оцінку твердженню: "Сусід сказав, що людина може жити 1000 років". (Правда\Брехня, вмістити в 1 байт)*/
+
+//5.Дати оцінку твердженню: "Сусід сказав, що людина може жити 1000 років". (Правда\Брехня, вмістити в 1 байт)
 Console.WriteLine("How do you think any man can leave 1000 years?");
 
 bool varieble;
@@ -36,16 +43,22 @@ else
     Console.WriteLine($"{varieble}");
 }
 
+
+//6.Температуру людини
 Console.WriteLine("Input value of temperature of your body");
 float temperature = float.Parse(Console.ReadLine());
 
 Console.WriteLine("Temperature of you body is: " + temperature);
 
+
+//7.Кількість населення планети
 Console.WriteLine("Input correct values of world population ");
 ulong worldPopulation = ulong.Parse(Console.ReadLine());
 
 Console.WriteLine("Your values of population is: " + worldPopulation);
 
+
+//8.Температуру навколишньго середовища в Укриїні
 Console.WriteLine("Input temperature of environment in Ukraine now");
 sbyte localUkrtemperature = sbyte.Parse(Console.ReadLine());
 
