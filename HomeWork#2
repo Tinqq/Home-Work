@@ -25,13 +25,15 @@ Console.WriteLine("\tHello to out World! Welcome!");
 
 Console.WriteLine("How do you think can any man leave 1000 years?: Write your answer: Yes or No");
 
-bool no;
-no = true;
-Console.ReadLine();
+bool varieble = false;
 
-if (no)
+if (varieble)
 {
-    Console.WriteLine("Answer No is " + no);
+    Console.WriteLine($"{varieble}");
+}
+else
+{
+    Console.WriteLine($"{varieble}");
 }
 
 Console.WriteLine("Input value of temperature of your body");
