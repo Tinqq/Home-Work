@@ -30,7 +30,7 @@ Console.WriteLine("\tHello to out World! Welcome!");
 
 
 //5.Дати оцінку твердженню: "Сусід сказав, що людина може жити 1000 років". (Правда\Брехня, вмістити в 1 байт)
-Console.WriteLine("How do you think any man can leave 1000 years? Write "yes" - if you think so, and "no" if you don't.");
+Console.WriteLine("How do you think any man can leave 1000 years? Write "yes" - if you think so, and "no" if you don't."); //Правда он не вмещается в 1н байт, но  он же лучше немного?) Там и типы и больше движений можно сделать. Но всё же если для одного типа то использовать второй вариант, который я заккоментил.
 
 string str;
 str = Console.ReadLine();
