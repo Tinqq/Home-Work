@@ -30,9 +30,26 @@ Console.WriteLine("\tHello to out World! Welcome!");
 
 
 //5.Дати оцінку твердженню: "Сусід сказав, що людина може жити 1000 років". (Правда\Брехня, вмістити в 1 байт)
-Console.WriteLine("How do you think any man can leave 1000 years?");
+Console.WriteLine("How do you think any man can leave 1000 years? Write answer, Yes - if you think so, and No if not.");
 
-bool varieble;
+string str;
+str = Console.ReadLine();
+
+bool variable1 = false;
+if (str == "yes")//ПИСАТЬ С МАЛЕНЬКОЙ БУКВЫ ПЖ)0)0000)
+{
+    Console.WriteLine(str + " is " + variable1);
+}
+else if (str == "no")//ПИСАТЬ С МАЛЕНЬКОЙ БУКВЫ ПЖ)0)0000)
+{
+    Console.WriteLine("No is right");
+}
+else
+{
+    Console.WriteLine("Incorrect answer");
+}
+
+/*bool varieble; -МОЖНО ВЗЯТЬ ЭТОТ, НО ОН ВСЕГДА ВЫВОДИТ ТО ЧТО ВПИСАНО ХАРДКОДОМ. Я В БУЛЕ НЕ СИЛЁН ПО ЭТОМУ ПЕРВЫЙ ВАРИАНТ НРАВ БОЛЬШЕ.
 
 if (varieble = false)
 {
@@ -41,7 +58,7 @@ if (varieble = false)
 else
 {
     Console.WriteLine($"{varieble}");
-}
+}*/
 
 
 //6.Температуру людини
