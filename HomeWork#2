@@ -1,19 +1,19 @@
 
 Console.WriteLine("Input your Age: ");
-byte a = byte.Parse(Console.ReadLine());
-Console.WriteLine("Your Age is: " + a);
+byte yourAge = byte.Parse(Console.ReadLine());
+Console.WriteLine("Your Age is: " + yourAge);
 
 Console.WriteLine("How many you want to deposit into our company (from -1 000 000 000 000 to 1 000 000 000 000) : ");
-long b = long.Parse(Console.ReadLine());
-Console.WriteLine("Value of your deposite is : " + b);
+long deposite = long.Parse(Console.ReadLine());
+Console.WriteLine("Value of your deposite is : " + deposite);
 
 Console.WriteLine("Input any letter to create security password of your account (any one symbol): ");
 
 try
 {
 
-    char c = char.Parse(Console.ReadLine());
-    Console.WriteLine("You password will be: " + c);
+    char charpass = char.Parse(Console.ReadLine());
+    Console.WriteLine("You password will be: " + charpass);
 }
 catch (Exception)
 {
