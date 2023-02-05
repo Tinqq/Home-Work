@@ -23,7 +23,7 @@ catch (Exception)
 Console.WriteLine("\tHello to out World! Welcome!");
 
 
-Console.WriteLine("How do you think can any man leave 1000 years?: Write your answer: Yes or No");
+Console.WriteLine("How do you think can any man leave 1000 years?");
 
 bool varieble = false;
 
