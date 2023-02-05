@@ -22,7 +22,7 @@ catch (Exception)
 
 Console.WriteLine("\tHello to out World! Welcome!");
 
-
+/*Дати оцінку твердженню: "Сусід сказав, що людина може жити 1000 років". (Правда\Брехня, вмістити в 1 байт)*/
 Console.WriteLine("How do you think any man can leave 1000 years?");
 
 bool varieble;
