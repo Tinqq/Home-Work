@@ -18,7 +18,7 @@ namespace AuthenticationIfElse
                 Console.WriteLine("Input Password: ");
                 password = Console.ReadLine();
 
-                if(password != "secretPass") //ДЛЯ ОТОБРАЖЕНИЯ УВЕДОМЛЕНИЯ О ВВЕДЕНИИ НЕКОРРЕКТНОГО ПАРОЛЯ
+                if(password != "secretPass") //ДЛЯ ОТОБРАЖЕНИЯ УВЕДОМЛЕНИЯ О ВВЕДЕНИИ ПОДОЙДЁТ ЛЮБОЙ СИМВОЛ\СИМВОЛЫ, КРОМЕ secretPass
                 {
                     Console.WriteLine("Password is not correct");
                 }
@@ -34,7 +34,7 @@ namespace AuthenticationIfElse
                 Console.WriteLine("Input Password: ");
                 password = Console.ReadLine();
 
-                if (password != "secretPass")  //ДЛЯ ОТОБРАЖЕНИЯ УВЕДОМЛЕНИЯ О ВВЕДЕНИИ НЕКОРРЕКТНОГО ПАРОЛЯ
+                if (password != "secretPass")  //ДЛЯ ОТОБРАЖЕНИЯ УВЕДОМЛЕНИЯ О ВВЕДЕНИИ ПОДОЙДЁТ ЛЮБОЙ СИМВОЛ\СИМВОЛЫ, КРОМЕ secretPass
                 {
                     Console.WriteLine("Password is not correct");
                 }
