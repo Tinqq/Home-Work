@@ -1,0 +1,15 @@
+D:\AuthenticationSwitch\AuthenticationSwitch\bin\Debug\net6.0\AuthenticationSwitch.exe
+D:\AuthenticationSwitch\AuthenticationSwitch\bin\Debug\net6.0\AuthenticationSwitch.deps.json
+D:\AuthenticationSwitch\AuthenticationSwitch\bin\Debug\net6.0\AuthenticationSwitch.runtimeconfig.json
+D:\AuthenticationSwitch\AuthenticationSwitch\bin\Debug\net6.0\AuthenticationSwitch.dll
+D:\AuthenticationSwitch\AuthenticationSwitch\bin\Debug\net6.0\AuthenticationSwitch.pdb
+D:\AuthenticationSwitch\AuthenticationSwitch\obj\Debug\net6.0\AuthenticationSwitch.csproj.AssemblyReference.cache
+D:\AuthenticationSwitch\AuthenticationSwitch\obj\Debug\net6.0\AuthenticationSwitch.GeneratedMSBuildEditorConfig.editorconfig
+D:\AuthenticationSwitch\AuthenticationSwitch\obj\Debug\net6.0\AuthenticationSwitch.AssemblyInfoInputs.cache
+D:\AuthenticationSwitch\AuthenticationSwitch\obj\Debug\net6.0\AuthenticationSwitch.AssemblyInfo.cs
+D:\AuthenticationSwitch\AuthenticationSwitch\obj\Debug\net6.0\AuthenticationSwitch.csproj.CoreCompileInputs.cache
+D:\AuthenticationSwitch\AuthenticationSwitch\obj\Debug\net6.0\AuthenticationSwitch.dll
+D:\AuthenticationSwitch\AuthenticationSwitch\obj\Debug\net6.0\refint\AuthenticationSwitch.dll
+D:\AuthenticationSwitch\AuthenticationSwitch\obj\Debug\net6.0\AuthenticationSwitch.pdb
+D:\AuthenticationSwitch\AuthenticationSwitch\obj\Debug\net6.0\AuthenticationSwitch.genruntimeconfig.cache
+D:\AuthenticationSwitch\AuthenticationSwitch\obj\Debug\net6.0\ref\AuthenticationSwitch.dll
