@@ -17,7 +17,7 @@ namespace AuthenticationTernary
             {
                 Console.WriteLine("Input Password: ");
                 string password = Console.ReadLine();
-                string hello = (password == "secretPass") ? "Hello User!" : "Password is not correct";
+                string hello = (password == "secretPass") ? "Hello User!" : "Password is not correct"; //ДЛЯ ПОЛУЧЕНИЯ СООБЩЕНИЯ О НЕПРАВИЛЬНОМ ВВОДЕ ПАРОЛЯ МОЖНО ВВЕСТИ ЛЮБУЮ СТРОКУ\СИМВОЛ
                 Console.WriteLine(hello);
             }
 
@@ -25,7 +25,7 @@ namespace AuthenticationTernary
             {
                 Console.WriteLine("Input Password: ");
                 string password = Console.ReadLine();
-                string hello = (password == "secretPass") ? "Hello Administrator!" : "Password is not correct";
+                string hello = (password == "secretPass") ? "Hello Administrator!" : "Password is not correct"; //ДЛЯ ПОЛУЧЕНИЯ СООБЩЕНИЯ О НЕПРАВИЛЬНОМ ВВОДЕ ПАРОЛЯ МОЖНО ВВЕСТИ ЛЮБУЮ СТРОКУ\СИМВОЛ
                 Console.WriteLine(hello);
             }
 
