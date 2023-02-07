@@ -1,4 +1,4 @@
-﻿namespace AuthenticationIfElse
+namespace AuthenticationIfElse
 {
     internal class Program
     {
@@ -6,14 +6,10 @@
 
         static void Main(string[] args)
         {
-            string username;
             string password;
-            
-            
-            
 
             Console.WriteLine("Input login");
-            username = Console.ReadLine();
+            string username = Console.ReadLine();
 
            
 
