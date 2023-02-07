@@ -1,0 +1,15 @@
+D:\AuthenticationTernary\AuthenticationTernary\bin\Debug\net6.0\AuthenticationTernary.exe
+D:\AuthenticationTernary\AuthenticationTernary\bin\Debug\net6.0\AuthenticationTernary.deps.json
+D:\AuthenticationTernary\AuthenticationTernary\bin\Debug\net6.0\AuthenticationTernary.runtimeconfig.json
+D:\AuthenticationTernary\AuthenticationTernary\bin\Debug\net6.0\AuthenticationTernary.dll
+D:\AuthenticationTernary\AuthenticationTernary\bin\Debug\net6.0\AuthenticationTernary.pdb
+D:\AuthenticationTernary\AuthenticationTernary\obj\Debug\net6.0\AuthenticationTernary.csproj.AssemblyReference.cache
+D:\AuthenticationTernary\AuthenticationTernary\obj\Debug\net6.0\AuthenticationTernary.GeneratedMSBuildEditorConfig.editorconfig
+D:\AuthenticationTernary\AuthenticationTernary\obj\Debug\net6.0\AuthenticationTernary.AssemblyInfoInputs.cache
+D:\AuthenticationTernary\AuthenticationTernary\obj\Debug\net6.0\AuthenticationTernary.AssemblyInfo.cs
+D:\AuthenticationTernary\AuthenticationTernary\obj\Debug\net6.0\AuthenticationTernary.csproj.CoreCompileInputs.cache
+D:\AuthenticationTernary\AuthenticationTernary\obj\Debug\net6.0\AuthenticationTernary.dll
+D:\AuthenticationTernary\AuthenticationTernary\obj\Debug\net6.0\refint\AuthenticationTernary.dll
+D:\AuthenticationTernary\AuthenticationTernary\obj\Debug\net6.0\AuthenticationTernary.pdb
+D:\AuthenticationTernary\AuthenticationTernary\obj\Debug\net6.0\AuthenticationTernary.genruntimeconfig.cache
+D:\AuthenticationTernary\AuthenticationTernary\obj\Debug\net6.0\ref\AuthenticationTernary.dll
