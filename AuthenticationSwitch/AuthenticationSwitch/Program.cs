@@ -25,7 +25,7 @@ namespace AuthenticationIfElse
                     }
                     switch (password)
                     {
-                        case "incorrectPass": //ДЛЯ ОТОБРАЖЕНИЯ УВЕДОМЛЕНИЯ О ВВЕДЕНИИ НЕКОРРЕКТНОГО ПАРОЛЯ
+                        case "incorrectPass": //ДЛЯ ОТОБРАЖЕНИЯ УВЕДОМЛЕНИЯ О ВВЕДЕНИИ НЕКОРРЕКТНОГО ПАРОЛЯ ВВОДИТЬ УКАЗАННУЮ ПЕРЕМЕННУЮ!
                             Console.WriteLine("Password is not correct"); ;
                             break;
                     }
@@ -45,7 +45,7 @@ namespace AuthenticationIfElse
                     }
                     switch (password)
                     {
-                        case "incorrectPass": //ДЛЯ ОТОБРАЖЕНИЯ УВЕДОМЛЕНИЯ О ВВЕДЕНИИ НЕКОРРЕКТНОГО ПАРОЛЯ
+                        case "incorrectPass": //ДЛЯ ОТОБРАЖЕНИЯ УВЕДОМЛЕНИЯ О ВВЕДЕНИИ НЕКОРРЕКТНОГО ПАРОЛЯ ВВОДИТЬ УКАЗАННУЮ ПЕРЕМЕННУЮ!
                             Console.WriteLine("Password is not correct"); ;
                             break;
                     }
