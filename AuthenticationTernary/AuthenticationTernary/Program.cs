@@ -31,8 +31,9 @@ namespace AuthenticationTernary
 
             if (username == "")
             {
-                Console.WriteLine("Hello Anonimous");
-                
+                string world = "Hello Anonimous";
+                Console.WriteLine(world);
+
             }
 
 
