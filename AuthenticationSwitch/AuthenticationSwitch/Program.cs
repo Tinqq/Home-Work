@@ -1,4 +1,3 @@
-﻿
 namespace AuthenticationIfElse
 {
     internal class Program
@@ -7,18 +6,18 @@ namespace AuthenticationIfElse
 
         static void Main(string[] args)
         {
-            string username;
-            string password = "secretPass";
+
+            string password;
 
             Console.WriteLine("Input login");
-            username = Console.ReadLine();
+            string username = Console.ReadLine();
 
             switch (username)
             {
                 case "USER":
                     Console.WriteLine("Input Password: ");
                     password = Console.ReadLine();
-                    switch (password )
+                    switch (password)
                     {
                         case "secretPass": //ДЛЯ КОРРЕКТНОГО ОТОБРАЖЕНИЯ ПРИВЕТСТВИЯ ПОЛЬЗОВАТЕЛЯ
                             Console.WriteLine("Hello User");
@@ -30,7 +29,7 @@ namespace AuthenticationIfElse
                             Console.WriteLine("Password is not correct"); ;
                             break;
                     }
-                    break;     
+                    break;
             }
             switch (username)
             {
@@ -46,13 +45,13 @@ namespace AuthenticationIfElse
                     }
                     switch (password)
                     {
-                        case  "incorrectPass": //ДЛЯ ОТОБРАЖЕНИЯ УВЕДОМЛЕНИЯ О ВВЕДЕНИИ НЕКОРРЕКТНОГО ПАРОЛЯ
+                        case "incorrectPass": //ДЛЯ ОТОБРАЖЕНИЯ УВЕДОМЛЕНИЯ О ВВЕДЕНИИ НЕКОРРЕКТНОГО ПАРОЛЯ
                             Console.WriteLine("Password is not correct"); ;
                             break;
                     }
                     break;
-                   
-                   
+
+
             }
             switch (username)
             {
