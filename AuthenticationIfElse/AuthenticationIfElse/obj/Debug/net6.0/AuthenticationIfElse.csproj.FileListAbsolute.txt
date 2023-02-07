@@ -1,0 +1,15 @@
+D:\AuthenticationIfElse\AuthenticationIfElse\bin\Debug\net6.0\AuthenticationIfElse.exe
+D:\AuthenticationIfElse\AuthenticationIfElse\bin\Debug\net6.0\AuthenticationIfElse.deps.json
+D:\AuthenticationIfElse\AuthenticationIfElse\bin\Debug\net6.0\AuthenticationIfElse.runtimeconfig.json
+D:\AuthenticationIfElse\AuthenticationIfElse\bin\Debug\net6.0\AuthenticationIfElse.dll
+D:\AuthenticationIfElse\AuthenticationIfElse\bin\Debug\net6.0\AuthenticationIfElse.pdb
+D:\AuthenticationIfElse\AuthenticationIfElse\obj\Debug\net6.0\AuthenticationIfElse.csproj.AssemblyReference.cache
+D:\AuthenticationIfElse\AuthenticationIfElse\obj\Debug\net6.0\AuthenticationIfElse.GeneratedMSBuildEditorConfig.editorconfig
+D:\AuthenticationIfElse\AuthenticationIfElse\obj\Debug\net6.0\AuthenticationIfElse.AssemblyInfoInputs.cache
+D:\AuthenticationIfElse\AuthenticationIfElse\obj\Debug\net6.0\AuthenticationIfElse.AssemblyInfo.cs
+D:\AuthenticationIfElse\AuthenticationIfElse\obj\Debug\net6.0\AuthenticationIfElse.csproj.CoreCompileInputs.cache
+D:\AuthenticationIfElse\AuthenticationIfElse\obj\Debug\net6.0\AuthenticationIfElse.dll
+D:\AuthenticationIfElse\AuthenticationIfElse\obj\Debug\net6.0\refint\AuthenticationIfElse.dll
+D:\AuthenticationIfElse\AuthenticationIfElse\obj\Debug\net6.0\AuthenticationIfElse.pdb
+D:\AuthenticationIfElse\AuthenticationIfElse\obj\Debug\net6.0\AuthenticationIfElse.genruntimeconfig.cache
+D:\AuthenticationIfElse\AuthenticationIfElse\obj\Debug\net6.0\ref\AuthenticationIfElse.dll
