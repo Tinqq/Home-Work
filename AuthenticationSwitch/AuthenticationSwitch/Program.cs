@@ -31,6 +31,7 @@ namespace AuthenticationIfElse
                     }
                     break;
             }
+            // можна було все в одному switch зробити, тоді код нижче не виконувався, а так код після першого switch USER іде в switch ADMIN а потім в ""
             switch (username)
             {
                 case "ADMIN":
