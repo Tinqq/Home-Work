@@ -1,3 +1,5 @@
+using System;
+
 namespace AuthenticationIfElse
 {
     internal class Program
@@ -6,51 +8,54 @@ namespace AuthenticationIfElse
 
         static void Main(string[] args)
         {
+            
             string password;
-
-            Console.WriteLine("Input login");
+            System.Console.WriteLine("Input Login");
             string username = Console.ReadLine();
 
-           
-// постіні та дублюючі значення краще виносити в константи const string USER = "USER";
             if (username == "USER")
             {
-                // постіні та дублюючі значення краще виносити в константи const string ASK_PASSWORD = "Input Password: "; та переюзувати по всіх місцях
-                Console.WriteLine("Input Password: ");
+                Console.WriteLine("Input Password");
                 password = Console.ReadLine();
-
-                if(password != "secretPass") //ДЛЯ ОТОБРАЖЕНИЯ УВЕДОМЛЕНИЯ О ВВЕДЕНИИ ПОДОЙДЁТ ЛЮБОЙ СИМВОЛ\СИМВОЛЫ, КРОМЕ secretPass
+                if (password == "secretPass")
                 {
-                    Console.WriteLine("Password is not correct");
+                    Console.WriteLine("Hello User");
                 }
-// тут краще поміняти місцями та спочатку перевірити на if (password == "secretPass") а в else просто вивести Console.WriteLine("Password is not correct"); тоді на 1 перевірку буде меньш
-                else if (password == "secretPass") //ДЛЯ КОРРЕКТНОГО ОТОБРАЖЕНИЯ ПРИВЕТСТВИЯ ПОЛЬЗОВАТЕЛЯ
+                else
                 {
-                    Console.WriteLine("Hello User!");
+                    Console.WriteLine("Incorrect Password");
                 }
-
             }
-            else if (username == "ADMIN")
+            if (username == "ADMIN")
             {
-                Console.WriteLine("Input Password: ");
+                Console.WriteLine("Input Password");
                 password = Console.ReadLine();
 
-                if (password != "secretPass")  //ДЛЯ ОТОБРАЖЕНИЯ УВЕДОМЛЕНИЯ О ВВЕДЕНИИ ПОДОЙДЁТ ЛЮБОЙ СИМВОЛ\СИМВОЛЫ, КРОМЕ secretPass
-                {
-                    Console.WriteLine("Password is not correct");
-                }
-
-                 if (password == "secretPass") //ДЛЯ КОРРЕКТНОГО ОТОБРАЖЕНИЯ ПРИВЕТСТВИЯ ПОЛЬЗОВАТЕЛЯ
+                if (password == "secretPass")
                 {
                     Console.WriteLine("Hello Administrator");
                 }
-            }
-            else if (username == "") //ДЛЯ ОТОБРАЖЕНИЯ ПРИВЕТСТВИЯ ПОЛЬЗОВАТЕЛЯ СО ЗНАЧЕНИЕМ НЕИЗВЕСТЕН
-            {
-                Console.WriteLine("Hello Anonimous");
+                else
+                {
+                    Console.WriteLine("Incorrect Password");
+                }
             }
 
-           
+                    if (username == string.Empty)
+                    {
+                        Console.WriteLine("Hello Anonimus");
+                    }
+                
+
+
+
+
+
+
+
+
+
+
+            }
         }
     }
-}
