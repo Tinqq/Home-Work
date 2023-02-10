@@ -6,7 +6,7 @@ Console.WriteLine("Your Age is: " + yourAge);
 
 //2.Банківський рахунок з лімітом від -1 000 000 000 000 до 1 000 000 000 000 грн
 Console.WriteLine("How many you want to deposit into our company (from -1 000 000 000 000 to 1 000 000 000 000) : ");
-double.deposite = double.Parse(Console.ReadLine());
+double deposite = double.Parse(Console.ReadLine());
 Console.WriteLine("Value of your deposite is : " + deposite);
 
 
@@ -31,7 +31,7 @@ Console.WriteLine(hello);
 
 
 //5.Дати оцінку твердженню: "Сусід сказав, що людина може жити 1000 років". (Правда\Брехня, вмістити в 1 байт)
-Console.WriteLine("How do you think any man can leave 1000 years? Write "yes" - if you think so, and "no" if you don't."); //Правда он не вмещается в 1н байт, но  он же лучше немного?) Там и типы и больше движений можно сделать. Но всё же если для одного типа то использовать второй вариант, который я заккоментил.
+Console.WriteLine("How do you think any man can leave 1000 years? Write yes - if you think so, and no if you don't."); //Правда он не вмещается в 1н байт, но  он же лучше немного?) Там и типы и больше движений можно сделать. Но всё же если для одного типа то использовать второй вариант, который я заккоментил.
 
 string str;
 str = Console.ReadLine();
