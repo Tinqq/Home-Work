@@ -6,7 +6,7 @@ Console.WriteLine("Your Age is: " + yourAge);
 
 //2.Банківський рахунок з лімітом від -1 000 000 000 000 до 1 000 000 000 000 грн
 Console.WriteLine("How many you want to deposit into our company (from -1 000 000 000 000 to 1 000 000 000 000) : ");
-long deposite = long.Parse(Console.ReadLine());
+double.deposite = double.Parse(Console.ReadLine());
 Console.WriteLine("Value of your deposite is : " + deposite);
 
 
@@ -26,7 +26,8 @@ catch (Exception)
 
 
 //4.SMS повідомлення: `Hello World`
-Console.WriteLine("\tHello to out World! Welcome!");
+string hello = "Hello World!";
+Console.WriteLine(hello);
 
 
 //5.Дати оцінку твердженню: "Сусід сказав, що людина може жити 1000 років". (Правда\Брехня, вмістити в 1 байт)
@@ -77,6 +78,6 @@ Console.WriteLine("Your values of population is: " + worldPopulation);
 
 //8.Температуру навколишньго середовища в Укриїні
 Console.WriteLine("Input temperature of environment in Ukraine now");
-sbyte localUkrtemperature = sbyte.Parse(Console.ReadLine());
+float localUkrtemperature = float.Parse(Console.ReadLine());
 
 Console.WriteLine("You writed that temperature in Ukraine now is: " + localUkrtemperature);
