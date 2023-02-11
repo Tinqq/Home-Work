@@ -1,0 +1,15 @@
+D:\LogicalShift\LogicalShift\bin\Debug\net6.0\LogicalShift.exe
+D:\LogicalShift\LogicalShift\bin\Debug\net6.0\LogicalShift.deps.json
+D:\LogicalShift\LogicalShift\bin\Debug\net6.0\LogicalShift.runtimeconfig.json
+D:\LogicalShift\LogicalShift\bin\Debug\net6.0\LogicalShift.dll
+D:\LogicalShift\LogicalShift\bin\Debug\net6.0\LogicalShift.pdb
+D:\LogicalShift\LogicalShift\obj\Debug\net6.0\LogicalShift.csproj.AssemblyReference.cache
+D:\LogicalShift\LogicalShift\obj\Debug\net6.0\LogicalShift.GeneratedMSBuildEditorConfig.editorconfig
+D:\LogicalShift\LogicalShift\obj\Debug\net6.0\LogicalShift.AssemblyInfoInputs.cache
+D:\LogicalShift\LogicalShift\obj\Debug\net6.0\LogicalShift.AssemblyInfo.cs
+D:\LogicalShift\LogicalShift\obj\Debug\net6.0\LogicalShift.csproj.CoreCompileInputs.cache
+D:\LogicalShift\LogicalShift\obj\Debug\net6.0\LogicalShift.dll
+D:\LogicalShift\LogicalShift\obj\Debug\net6.0\refint\LogicalShift.dll
+D:\LogicalShift\LogicalShift\obj\Debug\net6.0\LogicalShift.pdb
+D:\LogicalShift\LogicalShift\obj\Debug\net6.0\LogicalShift.genruntimeconfig.cache
+D:\LogicalShift\LogicalShift\obj\Debug\net6.0\ref\LogicalShift.dll
