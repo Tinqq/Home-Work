@@ -10,7 +10,7 @@ namespace ROMB
         {
             static void PrintDiamond(int n = 7)
             {
-                // Upper half of the diamond
+                //First Part
                 for (int i = 0; i < n; i++)
                 {
                     for (int j = 0; j < n - i; j++)
@@ -23,7 +23,7 @@ namespace ROMB
                     }
                     Console.WriteLine();
                 }
-                // Lower half of the diamond
+                // second Part
                 for (int i = n - 2; i >= 0; i--)
                 {
                     for (int j = 0; j < n - i; j++)
