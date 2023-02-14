@@ -1,0 +1,8 @@
+D:\ROMB\ROMB\bin\Debug\ROMB.exe.config
+D:\ROMB\ROMB\bin\Debug\ROMB.exe
+D:\ROMB\ROMB\bin\Debug\ROMB.pdb
+D:\ROMB\ROMB\obj\Debug\ROMB.csproj.AssemblyReference.cache
+D:\ROMB\ROMB\obj\Debug\ROMB.csproj.SuggestedBindingRedirects.cache
+D:\ROMB\ROMB\obj\Debug\ROMB.csproj.CoreCompileInputs.cache
+D:\ROMB\ROMB\obj\Debug\ROMB.exe
+D:\ROMB\ROMB\obj\Debug\ROMB.pdb
