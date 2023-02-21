@@ -78,7 +78,7 @@
                                 break;
 
                             case '^':
-                                result = one % second;
+                                result = one ^ second;
                                 Console.WriteLine($"exponentiation of {one} and {second} will be {result}");
                                 break;
 
