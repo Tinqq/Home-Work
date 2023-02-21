@@ -54,6 +54,36 @@
                         result = one ^ second;
                         Console.WriteLine($"exponentiation of {one} and {second} will be {result}");
                     }   
+                    //Or another way:
+                    /*switch (oper)
+                        {
+                            case '+':
+                                result = one + second;
+                                Console.WriteLine($"Sum of {one} and {second} will be {result}");
+                                break;
+
+                            case '-':
+                                result = one - second;
+                                Console.WriteLine($"Difference of {one} and {second} will be {result}");
+                                break;
+
+                            case '*':
+                                result = one * second;
+                                Console.WriteLine($"Multiplication of {one} and {second} will be {result}");
+                                break;
+
+                            case '/':
+                                result = one / second;
+                                Console.WriteLine($"The division difference of {one} and {second} will be {result}");
+                                break;
+
+                            case '^':
+                                result = one % second;
+                                Console.WriteLine($"exponentiation of {one} and {second} will be {result}");
+                                break;
+
+
+                        }*/
                 }
 
 
