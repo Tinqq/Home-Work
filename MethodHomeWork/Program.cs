@@ -61,7 +61,7 @@
             }
             catch (DivideByZeroException)
             {
-                Console.WriteLine("U can't dividing by zero.");
+                Console.WriteLine("U can't dividing by zero.");//or catch(Exeption - for all field's: int: for FormatExeption + DivideByZeroException)
                 
             }
 
